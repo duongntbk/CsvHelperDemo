@@ -1,0 +1,4 @@
+FirstName,LastName,Age,IsActive,IsActive
+John,Doe,30,Yes,True
+Jane,Doe,31,No,False
+Duong,Nguyen,31,Yes,True
